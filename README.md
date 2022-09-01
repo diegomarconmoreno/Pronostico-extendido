@@ -1,2 +1,2 @@
-# Pronostico-extendido
-Pronostico extendido a 5  dias en JAvaScript 
+# Pronostico-Extendido
+ Pronostico del tiempo a 5 dias
